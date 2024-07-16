@@ -32,7 +32,7 @@ Introduction to Data Structures, Concept of ADT, Types of Data Structures- Linea
   - [Comparison between Structure & Union](https://www.cdn.geeksforgeeks.org/wp-content/uploads/Union-in-C.png)
 - Quiz : Module - 1 Quiz
 
-## [Module - 2: Stacks & Queues]()
+## Module - 2: Stacks & Queues
 Introduction, ADT of Stack, Operations on Stack, Array Implementation of Stack, Applications of Stack-Well form-ness of Parenthesis, Infix to Postfix Conversion and Postfix Evaluation, Recursion.
 Introduction, ADT of Queue, Operations on Queue, Array Implementation of Queue, Types of Queue-Circular Queue, Priority Queue, Introduction of Double Ended Queue, Applications of Queue.
 - Theory :  [Stack](https://drive.google.com/file/d/1XKNLbBRG2CB6_gOs018lgXMew46WFPiZ/view?usp=drive_web&authuser=0), [Queues](https://drive.google.com/file/d/1FuNGNsQsbH9RRX-uFmOssNrlSjMgIADg/view?usp=drive_web&authuser=0)
@@ -40,20 +40,18 @@ Introduction, ADT of Queue, Operations on Queue, Array Implementation of Queue, 
 - Demos : [Stack Applications](https://docs.google.com/spreadsheets/d/14IGNTzZjrYl8dy9UEd3wlLPOO3EA-_8_aZBgB-TEgOk/edit?usp=sharing)
 - Useful study materials : [Postfix to Infix conversion](https://www.geeksforgeeks.org/postfix-to-infix/)
 - Useful Videos : [Circular Queue](https://www.youtube.com/watch?v=-GxuQ-Y8sbA)
-- Quiz :
-  - Module - 2 Quiz ,
+- Quiz :  Module - 2 Quiz
   - [Online Test - 1](https://examradar.com/data-structure-stack-queue-mcq-based-online-test-1/)
   - [Online Test - 2](https://examradar.com/data-structurestack-queue-mcq-based-online-test-2/)
   - [Online Test - 3](https://examradar.com/data-structurestack-queue-mcq-based-online-test-3/)
 
-## [Module - 3 : Linked List]()
+## Module - 3 : Linked List
 Introduction, Representation of Linked List, Linked List v/s Array, Types of Linked List - Singly Linked List, Circular Linked List, Doubly Linked List, Operations on Singly Linked List and Doubly Linked List, Stack and Queue using Singly Linked List, Singly Linked List Application-Polynomial Representation and Addition.
 - Theory
   - [LinkedList & Applications - Notes](https://drive.google.com/file/d/1jVlCGEsY4MwWtN8q_6K4PHUthQB59zWy/view?usp=sharing)
   - [LinkedList - PPT](https://drive.google.com/file/d/1f6oYzvHuvPAE0bzclaJEvsVet0zvKH2i/view?usp=sharing)
   - [Stack implementation using LL](https://drive.google.com/file/d/1XKNLbBRG2CB6_gOs018lgXMew46WFPiZ/view?usp=drive_web&authuser=0)
   - [Queues implementation using LL](https://drive.google.com/file/d/1FuNGNsQsbH9RRX-uFmOssNrlSjMgIADg/view?usp=drive_web&authuser=0)
-
 - Demos
   - Visualization for Stack & Queues : [using Linked List](https://visualgo.net/en/list)
   - [LinkedList Demonstrations in Excel Sheet](https://docs.google.com/spreadsheets/d/1bC30ScSsO7jtlC9iLByS1ZuoFksYUyURvSJp6wH1DrA/edit?usp=sharing)
@@ -80,21 +78,20 @@ Introduction, Representation of Linked List, Linked List v/s Array, Types of Lin
   - [Quiz - 2](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-2/)
   - [Quiz 3](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-3/)
 
-## [Module - 4 : Trees]()
+## Module - 4 : Trees
 Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types of Binary Tree, Binary Tree Traversals, Binary Search Tree, Operations on Binary Search Tree, Applications of Binary Tree-Expression Tree, Huffman Encoding.
 
 ## Module  - 5 : Types of Tree
 Search Trees-AVL Tree, Red Black Tree,  B Tree, B+ Tree and n-ary tree
 Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
 
-## [Module  - 6 : Sorting & Searching]()
+## Module  - 6 : Sorting & Searching
 Linear Search, Binary Search, Tries, Hashing, Collision  resolution Technique
 Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Bucket Sort
-
-#### Useful Links:
-- [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
-- [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
-- [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+- Useful Links:
+  - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
+  - [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
+  - [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
 ## Online Resources 
 1. https://cse01-iiith.vlabs.ac.in/List%20of%20experiments.html
