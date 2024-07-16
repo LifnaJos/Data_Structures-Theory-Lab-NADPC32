@@ -40,7 +40,6 @@ Introduction, ADT of Queue, Operations on Queue, Array Implementation of Queue, 
 - Demos : [Stack Applications](https://docs.google.com/spreadsheets/d/14IGNTzZjrYl8dy9UEd3wlLPOO3EA-_8_aZBgB-TEgOk/edit?usp=sharing)
 - Useful study materials : [Postfix to Infix conversion](https://www.geeksforgeeks.org/postfix-to-infix/)
 - Useful Videos : [Circular Queue](https://www.youtube.com/watch?v=-GxuQ-Y8sbA)
-- Visualization for Stack & Queues : [using Linked List](https://visualgo.net/en/list)
 - Quiz :
   - Module - 2 Quiz ,
   - [Online Test - 1](https://examradar.com/data-structure-stack-queue-mcq-based-online-test-1/)
@@ -49,7 +48,6 @@ Introduction, ADT of Queue, Operations on Queue, Array Implementation of Queue, 
 
 ## [Module - 3 : Linked List]()
 Introduction, Representation of Linked List, Linked List v/s Array, Types of Linked List - Singly Linked List, Circular Linked List, Doubly Linked List, Operations on Singly Linked List and Doubly Linked List, Stack and Queue using Singly Linked List, Singly Linked List Application-Polynomial Representation and Addition.
-
 - Theory
   - [LinkedList & Applications - Notes](https://drive.google.com/file/d/1jVlCGEsY4MwWtN8q_6K4PHUthQB59zWy/view?usp=sharing)
   - [LinkedList - PPT](https://drive.google.com/file/d/1f6oYzvHuvPAE0bzclaJEvsVet0zvKH2i/view?usp=sharing)
@@ -57,33 +55,33 @@ Introduction, Representation of Linked List, Linked List v/s Array, Types of Lin
   - [Queues implementation using LL](https://drive.google.com/file/d/1FuNGNsQsbH9RRX-uFmOssNrlSjMgIADg/view?usp=drive_web&authuser=0)
 
 - Demos
-  - LinkedList Demonstrations in Excel Sheet
-  - Linked List Demo in Jamboard
-  - Adding 2 Polynomials
-  - Adding + Subtracting Polynomials
-  - Polynomial Addition using Linked List (PPT)
-  - Implementation of Polynomial Addition
-  - Multiplication of Polynomials using Linked List
-  - Fibonacci Tree Recursion
+  - Visualization for Stack & Queues : [using Linked List](https://visualgo.net/en/list)
+  - [LinkedList Demonstrations in Excel Sheet](https://docs.google.com/spreadsheets/d/1bC30ScSsO7jtlC9iLByS1ZuoFksYUyURvSJp6wH1DrA/edit?usp=sharing)
+  - [Linked List Demo in Jamboard](https://jamboard.google.com/d/1I3Fw_ySgMI52PrncA2dddP0Pn9MoWMIk7sjvW5Dd64k/edit?usp=sharing)
+  - [Adding 2 Polynomials](https://www.geeksforgeeks.org/adding-two-polynomials-using-linked-list/)
+  - [Adding + Subtracting Polynomials](https://www.cuemath.com/algebra/adding-and-subtracting-polynomials/)
+  - [Polynomial Addition using Linked List (PPT)](https://www.slideserve.com/dima/polynomial-addition-using-linked-lists)
+  - [Implementation of Polynomial Addition](https://www.w3schools.in/data-structures/polynomials-using-linked-list-and-arrays/)
+  - [Multiplication of Polynomials using Linked List](https://www.geeksforgeeks.org/multiplication-of-two-polynomials-using-linked-list/)
+  - [Fibonacci Tree Recursion](https://stackoverflow.com/questions/58332650/fibonacci-tree-recursion-in-structure-and-interpretation-of-computer-programs)
 - Visualization for Stack & Queues
-  - Visualization of Stacks & Queues using Linked List
-  - Singly Linked List
-  - Circular Singly Linked List
+  - [Visualization of Stacks & Queues using Linked List](https://visualgo.net/en/list)
+  - [Singly Linked List](https://kalkicode.com/data-structure/single-linked-list-visualization)
+  - [Circular Singly Linked List](https://kalkicode.com/data-structure/circular-singly-linked-list-visualization)
 - Videos
-  - Implementation of Linked List
-  - Inserting a node in the Beginning of the Linked List
-  - Searching a node Singly Linked List
-  - Deleting a node in a Linked List
-  - Reversing a List
-  - Inserting after a specific node in Doubly Linked List
+  - [Inserting a node in the Beginning of the Linked List](https://www.youtube.com/watch?v=hEl8FythuoY)
+  - [Implementation of Linked List](https://www.youtube.com/watch?v=dU0KxLgNM9E)
+  - [Searching a node Singly Linked List](https://www.youtube.com/watch?v=lWEBpaVPoJA)
+  - [Deleting a node in a Linked List](https://www.youtube.com/watch?v=VCRGaWXGOKU)
+  - [Reversing a List](https://www.youtube.com/watch?v=4NWR385qeY4)
+  - [Inserting after a specific node in Doubly Linked List](https://static.javatpoint.com/ds/images/insertion-in-doubly-linked-list-after-specified-node.png)
 - Quiz :
-  - Quiz - 1
-  - Quiz - 2
-  - Quiz 3 
+  - [Quiz - 1](https://examradar.com/linked-lists-single-array-based-double-circular-mcq-based-online-test-1/)
+  - [Quiz - 2](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-2/)
+  - [Quiz 3](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-3/)
 
 ## [Module - 4 : Trees]()
-Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types of Binary Tree, Binary Tree Traversals, Binary Search Tree, Operations on Binary Search Tree, Applications of Binary Tree-Expression Tree, Huffman
-Encoding.
+Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types of Binary Tree, Binary Tree Traversals, Binary Search Tree, Operations on Binary Search Tree, Applications of Binary Tree-Expression Tree, Huffman Encoding.
 
 ## Module  - 5 : Types of Tree
 Search Trees-AVL Tree, Red Black Tree,  B Tree, B+ Tree and n-ary tree
