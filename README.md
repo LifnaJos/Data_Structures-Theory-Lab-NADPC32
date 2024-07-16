@@ -2,6 +2,7 @@
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Evaluation Scheme 
+
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: | |
 | 1 | End Semester Exam | 60 Marks | |
