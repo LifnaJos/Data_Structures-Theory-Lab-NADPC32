@@ -21,7 +21,7 @@ Continuous Assessment (a) : The date of certification exam should be within the 
 ## Module - 1 : Introduction
 Introduction to Data Structures, Concept of ADT, Types of Data Structures- Linear and Nonlinear, Operations on Data Structures.
 
-- [Theory-PPT](https://drive.google.com/file/d/18GNO29TFvZfGdKRt2qa00hekcp4t5sxb/view?usp=drive_web&authuser=0)
+- [Theory-PPT](https://github.com/LifnaJos/DataStructures/blob/main/Introduction%20to%20DAS.pdf)
 - Useful Links :
   - [Real Life Applications of Data Structures - 1](https://www.youtube.com/watch?v=d_XvFOkQz5k),
   - [Real Life Applications of Data Structures - 2 ](https://www.youtube.com/watch?v=PoxdkCSsD3A)
