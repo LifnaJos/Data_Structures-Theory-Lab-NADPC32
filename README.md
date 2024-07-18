@@ -8,15 +8,14 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 | 1 | End Semester Exam | 60 Marks | |
 | 2 | Internal Assessment | 20 Marks | |
 | 3 | Continuous Assessment | 20 Marks | |
-|   | a. *Certificate course for 4 weeks or more: NPTEL/ Coursera/ Udemy/any MOOC | 10 Marks | |
-|   | b. Content Beyond Syllabus Presentation | 10 Marks |  |
-|   | c. Mini-Project / Extra Experiments / Virtual Lab / Competitive programming- based event / Group Discussion | 10 Marks | |
-|   | d. Multiple Choice Questions (Quiz) | 5 Marks |  |
-|   | e. GATE based Assignment / Tutorials | 10 Marks | |
+|   | a. MCQ - 1 | 5 Marks | |
+|   | b. MCQ - 2 | 5 Marks |  |
+|   | c. GATE based Tutorial - 1 | 10 Marks | |
+|   | d. GATE based Tutorial - 2 | 10 Marks | |
 |   | Total Marks | 100 Marks | |
 
 #### Note : 
-Continuous Assessment (a) : The date of certification exam should be within the term and in case a student is unable to complete the certification, the grading has to be done accordingly
+Continuous Assessment best out 2 of 3 will be considered
 
 ## Module - 1 : Introduction
 Introduction to Data Structures, Concept of ADT, Types of Data Structures- Linear and Nonlinear, Operations on Data Structures.
