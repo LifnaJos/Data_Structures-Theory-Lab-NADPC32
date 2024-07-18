@@ -13,14 +13,14 @@
 
 ## Example Postfix Expression: AB+C*
 - Read A: It's an operand. Push it onto the stack.
-  Stack: ["A"]
+  - Stack: ["A"]
 - Read B: It's an operand. Push it onto the stack.
-  Stack: ["A", "B"]
+  - Stack: ["A", "B"]
 - Read +: It's an operator. Pop the top two operands (B and A). Create the prefix expression +AB. Push +AB onto the stack.
-  Stack: ["+AB"]
+  - Stack: ["+AB"]
 - Read C: It's an operand. Push it onto the stack.
-  Stack: ["+AB", "C"]
+  - Stack: ["+AB", "C"]
 - Read *: It's an operator. Pop the top two operands (C and +AB). Create the prefix expression *+ABC. Push *+ABC onto the stack.
-  Stack: ["*+ABC"]
+  - Stack: ["*+ABC"]
 
 At the end of the expression, the stack contains the prefix expression *+ABC.
