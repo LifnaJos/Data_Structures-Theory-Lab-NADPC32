@@ -117,4 +117,4 @@ Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, 
 5. Robert Kruse, C. L. Tondo, Bruce Leung, “Data Structures and Program Design in C”, Pearson Edition
    
 ## Acknowledgemnts
-* This material was prepared as a part of Course - **Data Structures** offered by the **University of Mumbai** to the Second Year Students of Artifical Intelligence & Data Science** Engineering Branch during the Academic Year 2024-24
+* This material was prepared as a part of Course - **Data Structures** offered by the **University of Mumbai** to the Second Year Students of Artifical Intelligence & Data Science Engineering Branch during the Academic Year 2024-25
