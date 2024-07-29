@@ -6,7 +6,7 @@
 ## Evaluation Scheme 
 
 | No | Rubrics | Marks | Document / Schedule |
-| :--: | ------------------ | :----: | : -------------: |
+| :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
 | | a. Experiments | 15 Marks | |
 | | b. Term Work Assessment | 10 Marks | |
@@ -27,7 +27,7 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | Stack using arrays. | LO1, LO3 |
+| 1. | [Stack using arrays](https://github.com/LifnaJos/DataStructures/edit/main/Data%20Structures%20Lab%20Instructions.md#experiment----1) | LO1, LO3 |
 | 2. | Applications of Stack: | LO1, LO3 |
 |  | a. Parenthesis Matching | |
 |  | b. Conversion of Infix Expression to Postfix Expression | |
