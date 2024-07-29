@@ -3,11 +3,17 @@
 | :-------------:| :--------: | :--------------: | :-------------------: | 
 | [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in |  |  |
 
-## Evaluation Scheme
-Term Work:  Total 25 Marks 
-          Experiments : 15 Marks 
-          Term Work Assessment : 10 Marks (Best out of 2 Programming Test)
-Practical and Oral Examination: 25 Marks.
+## Evaluation Scheme 
+
+| No | Rubrics | Marks | Document / Schedule |
+| :--: | ------------------ | :----: |:----------: |
+| 1 | Term Work | 25 Marks | |
+| | a. Experiments | 15 Marks | |
+| | b. Term Work Assessment | 10 Marks (Best out of 2 Programming Test) | |
+| 2. | Practical and Oral Examination | 25 Marks | | 
+|   | Total Marks | 50 Marks | |
+
+#### Note :  Test Assessment best out of 2 will be considered
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
