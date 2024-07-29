@@ -84,7 +84,7 @@ Program :
 
 Output :
 - Attach Output for valid expression and invalid expressions
-- Also, solve 3 input expressions for each Application as given in the [Stack Applications Excelsheet]()
+- Also, solve 3 input expressions for each Application as given in the [Stack Applications Excelsheet](https://docs.google.com/spreadsheets/d/14IGNTzZjrYl8dy9UEd3wlLPOO3EA-_8_aZBgB-TEgOk/edit?usp=sharing)
 
 Conclusion :
 - Understood the Applications of Stacks - Paranthesis Checking, Infix to Postfix and Postfix Evaluation
