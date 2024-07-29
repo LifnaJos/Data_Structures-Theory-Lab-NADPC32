@@ -29,9 +29,9 @@ At the end of the course, students will be able to
 | :--: | ------------------ | :----: |
 | 1. | [Stack using arrays](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----1) | LO1, LO3 |
 | 2. | Applications of Stack: | LO1, LO3 |
-|  | a. Parenthesis Matching | |
-|  | b. Conversion of Infix Expression to Postfix Expression | |
-|  | c. Postfix Expression evaluation. | |
+|  | a. Parenthesis Matching | -"- |
+|  | b. Conversion of Infix Expression to Postfix Expression | -"- |
+|  | c. Postfix Expression evaluation. | -"-  |
 | 3. | Linear Queue using array | LO1, LO3 |
 | 4. | Implement Circular Queue using array. | LO1, LO3 |
 | 5. | Implement Priority Queue using array. | LO1, LO3 |
@@ -41,37 +41,54 @@ At the end of the course, students will be able to
 | 9. | Implement Doubly Linked List. | LO1, LO3  |
 | 10. | Implement Binary Search Tree. | LO2, LO3, LO4 |
 | 11. | Searching Techniques : | LO2, LO3, LO4 |
-| | a. Binary Search | | 
-| | b. Hashing | |
+| | a. Binary Search | -"-  | 
+| | b. Hashing | -"-  |
 | 12. | Sorting Techniques : | LO1, LO2, LO3, LO4 |
-| | a. Selection Sort | | 
-| | b. Insertion Sort | |
-| | c. Merge Sort | |
+| | a. Selection Sort | -"-  | 
+| | b. Insertion Sort |  -"- |
+| | c. Merge Sort | -"-  |
 | 13. | Sorting Techniques :  | LO1, LO2, LO3, LO4 |
-| | a. Quick Sort | |
-| | b. Heap Sort | | 
-| | c. Bucket Sort | |
+| | a. Quick Sort | -"-  |
+| | b. Heap Sort |  -"- | 
+| | c. Bucket Sort |  -"- |
 
 ## Instructions for Experiments
-## Experiment  - 1 
-Aim : To implement Stack using Array
+## Experiment  - 1 : To implement Stack using Array
 
-Theory
+Theory :
 - What is a Stack? 
 - What are the operations performed on Stack?
 - List 5 Applications of Stack
 - Write the algorithm for Push and Pop operations on Stack
 
-Program
-// Print out of complete program 
+Program :
+- Print out of complete program
 
-Output
-// Attach Output considering underflow and overflow conditions. 
-// Also display the status of Stack after each operation performed on the Stack.
+Output :
+- Attach Output considering underflow and overflow conditions. 
+- Also display the status of Stack after each operation performed on the Stack.
 
-Conclusion
+Conclusion :
 - Understood the concept of Stacks
 - Implemented the operations of Stack using Array.
+
+## Experiment  - 2 : Applications of Stacks
+
+Theory :
+- algorithm for Checking the Paranthesis in the given Input Expression
+- Algorithm to convert Infix to Postfix Expression
+- Algorithm to evaluate Postfix Expression
+
+Program :
+- Print out of complete program for all the 3 Applications of Stacks
+
+Output :
+- Attach Output for valid expression and invalid expressions
+- Also, solve 3 input expressions for each Application as given in the [Stack Applications Excelsheet]()
+
+Conclusion :
+- Understood the Applications of Stacks - Paranthesis Checking, Infix to Postfix and Postfix Evaluation
+- Imnplemented the above applications using Arrays
 
 ## References
 1. www.leetcode.com
