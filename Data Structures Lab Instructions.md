@@ -1,8 +1,9 @@
 # Course : Data Structures Lab
-| Lab Instructor | Email-id | Lab Index Page | Practical Questions | Theory |
-| :-------------:| :--------: | :--------------: | :-------------------: | :------------: |
-| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in |  |  | |
+| Lab Instructor | Email-id | Lab Index Page | Practical Questions |
+| :-------------:| :--------: | :--------------: | :-------------------: | 
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in |  |  |
 
+## Evaluation Scheme
 Term Work:  Total 25 Marks 
           Experiments : 15 Marks 
           Term Work Assessment : 10 Marks (Best out of 2 Programming Test)
