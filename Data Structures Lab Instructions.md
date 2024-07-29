@@ -5,13 +5,13 @@
 
 ## Evaluation Scheme 
 
-| No | Rubrics | Marks | 
-| :--: | ------------------ | :----: |
-| 1 | Term Work | 25 Marks | 
-| | a. Experiments | 15 Marks | 
-| | b. Term Work Assessment | 10 Marks | 
-| 2. | Practical and Oral Examination | 25 Marks | 
-|   | Total Marks | 50 Marks | 
+| No | Rubrics | Marks | Document / Schedule |
+| :--: | ------------------ | :----: | : -------------: |
+| 1 | Term Work | 25 Marks | |
+| | a. Experiments | 15 Marks | |
+| | b. Term Work Assessment | 10 Marks | |
+| 2. | Practical and Oral Examination | 25 Marks | |
+|   | Total Marks | 50 Marks | |
 
 #### Note :  
 - Term Work Assessment is a Programming Test.
@@ -52,6 +52,27 @@ At the end of the course, students will be able to
 | | b. Heap Sort | | 
 | | c. Bucket Sort | |
 
+## Instructions for Experiments
+## Experiment  - 1 
+Aim : To implement Stack using Array
+
+Theory
+- What is a Stack? 
+- What are the operations performed on Stack?
+- List 5 Applications of Stack
+- Write the algorithm for Push and Pop operations on Stack
+
+Program
+// Print out of complete program 
+
+Output
+// Attach Output considering underflow and overflow conditions. 
+// Also display the status of Stack after each operation performed on the Stack.
+
+Conclusion
+- Understood the concept of Stacks
+- Implemented the operations of Stack using Array.
+
 ## References
 1. www.leetcode.com
 2. www.hackerrank.com
@@ -59,7 +80,28 @@ At the end of the course, students will be able to
 4. www.codechef.com
 
 ## Useful Links
-1. 
+1. 1. https://cse01-iiith.vlabs.ac.in/List%20of%20experiments.html
+2. https://ds1-iiith.vlabs.ac.in/List%20of%20experiments.html
+3. https://nptel.ac.in/courses/106/102/106102064/
+4. https://www.coursera.org/specializations/data- structures-algorithms
+5. https://www.edx.org/course/data-structures-fundamentals
+6. https://cse01-iiith.vlabs.ac.in/List%20of%20experiments.html
+7. https://www.gyata.ai/data-structure/articles/
+8. https://www.geeksforgeeks.org/real-time-application-of-data-structures/
+ 
+## Text Books :
+1. Aaron M Tenenbaum, Yedidyah Langsam, Moshe J Augenstein, “Data Structures Using C”, Pearson Publication.
+2. Reema Thareja, “Data Structures using C”, Oxford Press.
+3. Richard F. Gilberg and Behrouz A. Forouzan, “Data Structures: A Pseudocode Approach With C”, 2  Edition, CENGAGE Learning.
+4. Jean Paul Tremblay, P. G. Sorenson, “Introduction to Data Structure and Its Applications”, McGraw-Hill Higher Education
+5. Data Structures Using C, ISRD Group, 2  Edition, Tata McGraw-Hill.
+   
+## Refernces :
+1. Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.
+2. E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India.
+3. Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India
+4. GAV PAI, “Data Structures”, Schaum’s Outlines.
+5. Robert Kruse, C. L. Tondo, Bruce Leung, “Data Structures and Program Design in C”, Pearson Edition
    
 ## Acknowledgements
-* This material was prepared as a part of the Course - **Data Structures Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Second Year Artificial Intelligence & Data Science Students.
+* This material was prepared as a part of the Course - **Data Structures Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Second Year Artificial Intelligence & Data Science Students durigng the Acdemic Year 2024-25
