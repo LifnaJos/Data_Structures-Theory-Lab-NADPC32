@@ -22,7 +22,7 @@ Continuous Assessment best out 2 of 3 will be considered
 ## Module - 1 : Introduction
 Introduction to Data Structures, Concept of ADT, Types of Data Structures- Linear and Nonlinear, Operations on Data Structures.
 
-- [Theory-PPT](https://github.com/LifnaJos/DataStructures/blob/main/Introduction%20to%20DAS.pdf)
+- [Theory-PPT](https://github.com/LifnaJos/DataStructures/blob/main/Introduction%20to%20DAS%20(1).pdf)
 - Useful Links :
   - [Real Life Applications of Data Structures - 1](https://www.youtube.com/watch?v=d_XvFOkQz5k),
   - [Real Life Applications of Data Structures - 2 ](https://www.youtube.com/watch?v=PoxdkCSsD3A)
