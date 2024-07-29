@@ -5,15 +5,17 @@
 
 ## Evaluation Scheme 
 
-| No | Rubrics | Marks | Document / Schedule |
-| :--: | ------------------ | :----: |:----------: |
-| 1 | Term Work | 25 Marks | |
-| | a. Experiments | 15 Marks | |
-| | b. Term Work Assessment | 10 Marks (Best out of 2 Programming Test) | |
-| 2. | Practical and Oral Examination | 25 Marks | | 
-|   | Total Marks | 50 Marks | |
+| No | Rubrics | Marks | 
+| :--: | ------------------ | :----: |
+| 1 | Term Work | 25 Marks | 
+| | a. Experiments | 15 Marks | 
+| | b. Term Work Assessment | 10 Marks | 
+| 2. | Practical and Oral Examination | 25 Marks | 
+|   | Total Marks | 50 Marks | 
 
-#### Note :  Test Assessment best out of 2 will be considered
+#### Note :  
+- Term Work Assessment is a Programming Test.
+- Best out of 2 will be considered
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
