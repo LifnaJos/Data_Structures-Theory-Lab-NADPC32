@@ -1,4 +1,4 @@
-# [Course : Data Structures(NADPC32)]()
+# [Course : Data Structures(NADPC32)](https://github.com/LifnaJos/DataStructures/blob/main/DS%20and%20DS%20Lab%20NEP%20Syllbus.pdf)
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Evaluation Scheme 
