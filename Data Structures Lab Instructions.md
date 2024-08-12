@@ -34,21 +34,21 @@ At the end of the course, students will be able to
 |  | b. Conversion of Infix Expression to Postfix Expression | -"- |
 |  | c. Postfix Expression evaluation. | -"-  |
 | 3. | [Linear Queue using array](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----3--to-implement-queue-using-array) | LO1, LO3 |
-| 4. | Implement Circular Queue using array. | LO1, LO3 |
-| 5. | Implement Priority Queue using array. | LO1, LO3 |
-| 6. | Implement a Singly Linked List. | LO1, LO3 |
-| 7. | Implement Stack and Linear Queue using Linked List. | LO1, LO3 |
-| 8. | Implement Circular Linked List. | LO1, LO3 |
-| 9. | Implement Doubly Linked List. | LO1, LO3  |
-| 10. | Implement Binary Search Tree. | LO2, LO3, LO4 |
-| 11. | Searching Techniques : | LO2, LO3, LO4 |
+| 4. | a. Implement Circular Queue using array. | LO1, LO3 |
+|    | b. Implement Priority Queue using array. | LO1, LO3 |
+| 5. | Implement a Singly Linked List. | LO1, LO3 |
+| 6. | Implement Stack and Linear Queue using Linked List. | LO1, LO3 |
+| 7. | Implement Circular Linked List. | LO1, LO3 |
+| 8. | Implement Binary Search Tree. | LO2, LO3, LO4 |
+| 9. | Implement an Expression Tree | LO2, LO3, LO4 |
+| 10. | Searching Techniques : | LO1, LO4 |
 | | a. Binary Search | -"-  | 
 | | b. Hashing | -"-  |
-| 12. | Sorting Techniques : | LO1, LO2, LO3, LO4 |
+| 11. | Sorting Techniques : | LO1, LO4 |
 | | a. Selection Sort | -"-  | 
 | | b. Insertion Sort |  -"- |
 | | c. Merge Sort | -"-  |
-| 13. | Sorting Techniques :  | LO1, LO2, LO3, LO4 |
+| 12. | Sorting Techniques :  | LO1, LO4 |
 | | a. Quick Sort | -"-  |
 | | b. Heap Sort |  -"- | 
 | | c. Bucket Sort |  -"- |
