@@ -33,7 +33,7 @@ At the end of the course, students will be able to
 |  | a. Parenthesis Matching | -"- |
 |  | b. Conversion of Infix Expression to Postfix Expression | -"- |
 |  | c. Postfix Expression evaluation. | -"-  |
-| 3. | Linear Queue using array | LO1, LO3 |
+| 3. | [Linear Queue using array](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----3--to-implement-queue-using-array) | LO1, LO3 |
 | 4. | Implement Circular Queue using array. | LO1, LO3 |
 | 5. | Implement Priority Queue using array. | LO1, LO3 |
 | 6. | Implement a Singly Linked List. | LO1, LO3 |
