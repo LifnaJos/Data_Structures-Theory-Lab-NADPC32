@@ -51,6 +51,7 @@ Introduction, Representation of Linked List, Linked List v/s Array, Types of Lin
 - Theory
   - [LinkedList & Applications - Notes](https://drive.google.com/file/d/1jVlCGEsY4MwWtN8q_6K4PHUthQB59zWy/view?usp=sharing)
   - [LinkedList - PPT](https://drive.google.com/file/d/1f6oYzvHuvPAE0bzclaJEvsVet0zvKH2i/view?usp=sharing)
+  - [LinkedList - Virtual Lab](https://ds1-iiith.vlabs.ac.in/exp/linked-list/index.html)
   - [Stack implementation using LL](https://drive.google.com/file/d/1XKNLbBRG2CB6_gOs018lgXMew46WFPiZ/view?usp=drive_web&authuser=0)
   - [Queues implementation using LL](https://drive.google.com/file/d/1FuNGNsQsbH9RRX-uFmOssNrlSjMgIADg/view?usp=drive_web&authuser=0)
 - Demos
