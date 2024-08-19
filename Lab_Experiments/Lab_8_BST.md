@@ -1,4 +1,4 @@
-# Experiment  - 4 : Implement a Binary Search Tree
+# Experiment  - 8 : Implement a Binary Search Tree
 ## Theory :
 - What is a Binary Search Tree?
 - List all the operations to be performed on a Binary Search Tree.
