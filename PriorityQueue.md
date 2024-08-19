@@ -1,3 +1,4 @@
+'''
 typedef struct {
     int data[MAX];
     int priority[MAX];
@@ -34,3 +35,4 @@ void dequeue(PriorityQueue *pq) {
     pq->size--;
     printf("Element with highest priority (%d) dequeued.\n", value);
 }
+'''
