@@ -1,8 +1,8 @@
 # Experiment  - 2 : Applications on Stack
 ## Theory :
-- Algorithm to convert Infix to Postfix
-- Algorithm to evaluate Postfix Expression
-- Algorithm to check whether the input expression has balanced Parenthesis
+- Algorithm for Parenthesis Matching
+- Algorithm for Conversion of Infix Expression to Postfix Expression
+- Algorithm for Postfix Expression evaluation
 ## Program :
 - Print out of complete program
 ## Output :
