@@ -37,11 +37,11 @@ At the end of the course, students will be able to
 | 4. | [Types of Queues](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_4_CQ_PQ.md) | LO1, LO3 |
 |    | a. Implement Circular Queue using array. | -"- |
 |    | b. Implement Priority Queue using array. |  -"- |
-| 5. | Implement a Singly Linked List. | LO1, LO3 |
-| 6. | Implement Stack and Linear Queue using Linked List. | LO1, LO3 |
-| 7. | Implement Circular Linked List. | LO1, LO3 |
-| 8. | Implement Binary Search Tree. | LO2, LO3, LO4 |
-| 9. | Implement an Expression Tree | LO2, LO3, LO4 |
+| 5. | [Implement a Singly Linked List.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_5_SLL.md) | LO1, LO3 |
+| 6. | [Implement Stack and Linear Queue using Linked List.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_6_Stack_Queue_LL.md) | LO1, LO3 |
+| 7. | [Implement Circular Linked List.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_7_CLL.md) | LO1, LO3 |
+| 8. | [Implement Binary Search Tree.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_8_BST.md) | LO2, LO3, LO4 |
+| 9. | [Implement an Expression Tree](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_9_ET.md) | LO2, LO3, LO4 |
 | 10. | Searching Techniques : | LO1, LO4 |
 | | a. Binary Search | -"-  | 
 | | b. Hashing | -"-  |
