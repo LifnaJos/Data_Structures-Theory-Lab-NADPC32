@@ -28,14 +28,15 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | [Stack using arrays](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----1--to-implement-stack-using-array) | LO1, LO3 |
-| 2. | [Applications of Stacks](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----2--applications-of-stacks) | LO1, LO3 |
+| 1. | [Stack using arrays](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_1_Stack.md) | LO1, LO3 |
+| 2. | [Applications of Stacks](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_2_Appln_Stack.md) | LO1, LO3 |
 |  | a. Parenthesis Matching | -"- |
 |  | b. Conversion of Infix Expression to Postfix Expression | -"- |
 |  | c. Postfix Expression evaluation. | -"-  |
-| 3. | [Linear Queue using array](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md#experiment----3--to-implement-queue-using-array) | LO1, LO3 |
-| 4. | a. Implement Circular Queue using array. | LO1, LO3 |
-|    | b. Implement Priority Queue using array. | LO1, LO3 |
+| 3. | [Linear Queue using array](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_3_Queue.md) | LO1, LO3 |
+| 4. | [Types of Queues](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_4_CQ_PQ.md) | LO1, LO3 |
+|    | a. Implement Circular Queue using array. | -"- |
+|    | b. Implement Priority Queue using array. |  -"- |
 | 5. | Implement a Singly Linked List. | LO1, LO3 |
 | 6. | Implement Stack and Linear Queue using Linked List. | LO1, LO3 |
 | 7. | Implement Circular Linked List. | LO1, LO3 |
