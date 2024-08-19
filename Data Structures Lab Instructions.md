@@ -53,63 +53,6 @@ At the end of the course, students will be able to
 | | b. Heap Sort |  -"- | 
 | | c. Bucket Sort |  -"- |
 
-## Instructions for Experiments
-### Experiment  - 1 : To implement Stack using Array
-
-Theory :
-- What is a Stack? 
-- What are the operations performed on Stack?
-- List 5 Applications of Stack
-- Write the algorithm for Push and Pop operations on Stack
-
-Program :
-- Print out of complete program
-
-Output :
-- Attach Output considering underflow and overflow conditions. 
-- Also display the status of Stack after each operation performed on the Stack.
-
-Conclusion :
-- Understood the concept of Stacks
-- Implemented the operations of Stack using Array.
-
-### Experiment  - 2 : Applications of Stacks
-
-Theory :
-- algorithm for Checking the Paranthesis in the given Input Expression
-- Algorithm to convert Infix to Postfix Expression
-- Algorithm to evaluate Postfix Expression
-
-Program :
-- Print out of complete program for all the 3 Applications of Stacks
-
-Output :
-- Attach Output for valid expression and invalid expressions
-- Also, solve 3 input expressions for each Application as given in the [Stack Applications Excelsheet](https://docs.google.com/spreadsheets/d/14IGNTzZjrYl8dy9UEd3wlLPOO3EA-_8_aZBgB-TEgOk/edit?usp=sharing)
-
-Conclusion :
-- Understood the Applications of Stacks - Paranthesis Checking, Infix to Postfix and Postfix Evaluation
-- Imnplemented the above applications using Arrays
-
-### Experiment  - 3 : To implement Queue using Array
-
-Theory :
-- What is a Queue? 
-- What are the operations performed on Queue?
-- List 5 Applications of Queue
-- Write the algorithm for Enqueue and Dequeue operations on Queue
-
-Program :
-- Print out of complete program
-
-Output :
-- Attach Output considering underflow and overflow conditions. 
-- Also display the status of Queue after each operation performed on the Queue.
-
-Conclusion :
-- Understood the concept of Queues
-- Implemented the operations of Queue using Array.
-
 ## References
 1. www.leetcode.com
 2. www.hackerrank.com
