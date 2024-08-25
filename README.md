@@ -37,7 +37,7 @@ Introduction to Data Structures, Concept of ADT, Types of Data Structures- Linea
 Introduction, ADT of Stack, Operations on Stack, Array Implementation of Stack, Applications of Stack-Well form-ness of Parenthesis, Infix to Postfix Conversion and Postfix Evaluation, Recursion.
 Introduction, ADT of Queue, Operations on Queue, Array Implementation of Queue, Types of Queue-Circular Queue, Priority Queue, Introduction of Double Ended Queue, Applications of Queue.
 - Theory :  [Stack](https://drive.google.com/file/d/1XKNLbBRG2CB6_gOs018lgXMew46WFPiZ/view?usp=drive_web&authuser=0), [Queues](https://drive.google.com/file/d/1FuNGNsQsbH9RRX-uFmOssNrlSjMgIADg/view?usp=drive_web&authuser=0)
-- [Visualization of Data Structures](https://jayd1912.github.io/Data-Structures-Visualisation/)
+- [SE Project - Visualization of Data Structures](https://jayd1912.github.io/Data-Structures-Visualisation/)
 - Extras : [Pointers - PPT_1](https://docs.google.com/presentation/d/1JaePHeZI-5uRvQzjgFSLisRO9I9Hvj0v/edit?usp=sharing&ouid=116999591165080319813&rtpof=true&sd=true), [Pointers - PPT_2](https://docs.google.com/presentation/d/1Jkzhkb_XhQ0saJF_lhjb7mvK8vUKww80/edit?usp=sharing&ouid=116999591165080319813&rtpof=true&sd=true)
 - Demos : [Stack Applications](https://docs.google.com/spreadsheets/d/14IGNTzZjrYl8dy9UEd3wlLPOO3EA-_8_aZBgB-TEgOk/edit?usp=sharing)
 - Useful study materials : [Postfix to Infix conversion](https://www.geeksforgeeks.org/postfix-to-infix/)
