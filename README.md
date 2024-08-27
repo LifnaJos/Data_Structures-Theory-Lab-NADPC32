@@ -1,7 +1,8 @@
 # Course : Data Structures Theory & Lab (NADPC32)
 - Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - [Lab and Theory - Syllabus Link](https://github.com/LifnaJos/DataStructures/blob/main/DS%20and%20DS%20Lab%20NEP%20Syllbus.pdf)
-- [Data Structures Lab Instructions](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md)
+
+## [Data Structures Lab Instructions](https://github.com/LifnaJos/DataStructures/blob/main/Data%20Structures%20Lab%20Instructions.md)
 
 ## Evaluation Scheme 
 
