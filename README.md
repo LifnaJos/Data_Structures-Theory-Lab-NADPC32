@@ -84,10 +84,39 @@ Introduction, Representation of Linked List, Linked List v/s Array, Types of Lin
 
 ## Module - 4 : Trees
 Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types of Binary Tree, Binary Tree Traversals, Binary Search Tree, Operations on Binary Search Tree, Applications of Binary Tree-Expression Tree, Huffman Encoding.
+- Theory
+  - [Trees - PPT](https://drive.google.com/file/d/1Av5y16mfZSIZwyAAOhPSXmSQFodfOTx4/view?usp=drive_web&authuser=0)
+  - [BST - PPT](https://drive.google.com/file/d/15BQgGp7JZt43DV3viHUi1MZ2pAIJ7kQP/view?usp=drive_web&authuser=0)
+  - [Tree - Text Book extract from Prof. Samantha](https://www.google.co.in/books/edition/CLASSIC_DATA_STRUCTURES_2nd_ed/law2E-LPScIC?hl=en&gbpv=1&printsec=frontcover)
+- Online Resources :
+  - [Full Vs Complete Binary Tree](https://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
+  - [Huffman](https://drive.google.com/file/d/1PDRzRm_PxMQfB1J04SmD2sSUiGEoF9Bd/view?usp=drive_web&authuser=0)
+- Construct Tree using Traversals
+    - [Inorder & Preorder](https://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/)
+    - [Inorder & Postorder](https://www.geeksforgeeks.org/construct-a-binary-tree-from-postorder-and-inorder/?ref=lbp)
+    - [Preorder & Postorder](https://www.geeksforgeeks.org/full-and-complete-binary-tree-from-given-preorder-and-postorder-traversals/?ref=lbp)
+- Visualization Tools :
+  - [Binary Search Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BST.html)
+  - [Huffman Tree](https://huffman.ooz.ie/)
+- Quiz :
+  - [Quiz 1](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-1/)
+  - [Quiz 2](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-2/)
+  - [Quiz 3](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-3/) 
 
 ## Module  - 5 : Types of Tree
 Search Trees-AVL Tree, Red Black Tree,  B Tree, B+ Tree and n-ary tree
 Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
+- Theory
+  - [AVL Tree - PPT](https://drive.google.com/file/d/1Vrwx9kT2Xr1WiFIp-Dy_Wl0DUGEq5arK/view?usp=drive_web&authuser=0)
+- Online Resources :
+  - [Difference between B Tree & B+ Tree - 1](https://www.geeksforgeeks.org/difference-between-b-tree-and-b-tree/)
+  - [B Tree Vs B+Tree](https://medium.com/beuni/b-tree-and-b-tree-d27a9cd3630b)
+  - [AVL Tree - PPT](https://www.slideshare.net/sandpoonia/lecture11-33728696)
+- Visualization Tools :
+  - [AVL Tree - Visualization](https://cmps-people.ok.ubc.ca/ylucet/DS/AVLtree.html)
+  - [B Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+  - [B+Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
+- Quiz :
 
 ## Module  - 6 : Sorting & Searching
 Linear Search, Binary Search, Tries, Hashing, Collision  resolution Technique
