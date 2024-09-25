@@ -14,7 +14,7 @@
 |   | a. MCQ - 1 | 5 Marks | |
 |   | b. MCQ - 2 | 5 Marks |  |
 |   | c. GATE based Tutorial - 1 | 10 Marks | |
-|   | d. GATE based Tutorial - 2 | 10 Marks | |
+|   | d. Programming Test on HackerRank | 10 Marks | [19th Sept 2024](https://www.hackerrank.com/d6ad-b-ca-1)|
 |   | Total Marks | 100 Marks | |
 
 #### Note : 
