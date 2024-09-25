@@ -9,7 +9,7 @@
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | End Semester Exam | 60 Marks | |
-| 2 | Internal Assessment | 20 Marks | |
+| 2 | Internal Assessment | 20 Marks | [DS-MT-QP-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25.pdf), [DS-MT-QP-Sol-2024]()|
 | 3 | Continuous Assessment | 20 Marks | |
 |   | a. MCQ - 1 | 5 Marks | |
 |   | b. MCQ - 2 | 5 Marks |  |
