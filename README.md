@@ -121,6 +121,9 @@ Introduction to Heaps, Heap representation using array, heap creation and deleti
 ## Module  - 6 : Sorting & Searching
 Linear Search, Binary Search, Tries, Hashing, Collision  resolution Technique
 Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Bucket Sort
+- Theory :
+  - [Searching PPT](https://drive.google.com/file/d/19ox7uRmNt31yeP1vG0zm8th7_-E8q2Gc/view)
+  - [Hashing PPT](https://drive.google.com/file/d/1eiDDhkXxwgY5AwqUh8hmyWoasOjCxuAy/view?usp=drive_web&authuser=0)
 - Online Materials:
   - [Bubble Sort](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/)
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
