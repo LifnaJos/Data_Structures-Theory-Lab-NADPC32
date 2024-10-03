@@ -9,7 +9,7 @@
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
 | | a. Experiments | 10 Marks | |
-| | b. Term Work Assessment | 10 Marks |  |
+| | b. Term Work Assessment | 10 Marks | 3rd week of Oct. 2024 |
 | | c. Lab Attendance | 5 Marks | |
 | 2. | Practical and Oral Examination | 25 Marks | |
 |   | Total Marks | 50 Marks | |
