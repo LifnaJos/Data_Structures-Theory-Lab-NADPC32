@@ -9,14 +9,14 @@
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
 | | a. Experiments | 10 Marks | |
-| | b. Term Work Assessment | 10 Marks | |
+| | b. Term Work Assessment | 10 Marks |  |
 | | c. Lab Attendance | 5 Marks | |
 | 2. | Practical and Oral Examination | 25 Marks | |
 |   | Total Marks | 50 Marks | |
 
 #### Note :  
-- Term Work Assessment is a Programming Test.
-- Best out of 2 will be considered
+- Term Work Assessment is to **Design and implement a Game of your choice in C or Java, utilizing various data structures studied**
+- Viva will be conducted based on this Assessment
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
