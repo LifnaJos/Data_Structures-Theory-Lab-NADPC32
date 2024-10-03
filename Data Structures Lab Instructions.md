@@ -14,9 +14,10 @@
 | 2. | Practical and Oral Examination | 25 Marks | |
 |   | Total Marks | 50 Marks | |
 
-#### Note :  
-- Term Work Assessment is to **Design and implement a Game of your choice in C or Java, utilizing various data structures studied**
+#### Note :  Term Work Assessment 
+- **Design and implement a Game** of your choice in **C or Java**, utilizing various data structures studied
 - Viva will be conducted based on this Assessment
+- 
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
