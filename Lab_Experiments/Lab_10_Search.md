@@ -1,4 +1,4 @@
-# Experiment  - 10 : Implement Searching Technique
+# Experiment  - 10 : Implement Searching Techniques
 ## Theory :
 - Difference between Binary Search and Linear Search
 - Enslist the 4 Hashing techniques with formula
