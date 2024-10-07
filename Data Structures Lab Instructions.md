@@ -43,7 +43,7 @@ At the end of the course, students will be able to
 | 7. | [Implement Circular Linked List.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_7_CLL.md) | LO1, LO3 |
 | 8. | [Implement Binary Search Tree.](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_8_BST.md) | LO2, LO3, LO4 |
 | 9. | [Implement an Expression Tree](https://github.com/LifnaJos/DataStructures/blob/main/Lab_Experiments/Lab_9_ET.md) | LO2, LO3, LO4 |
-| 10. | Searching Techniques : | LO1, LO4 |
+| 10. | [Searching Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Lab_Experiments/Lab_10_Search.md) : | LO1, LO4 |
 | | a. Binary Search | -"-  | 
 | | b. Hashing | -"-  |
 | 11. | Sorting Techniques : | LO1, LO4 |
