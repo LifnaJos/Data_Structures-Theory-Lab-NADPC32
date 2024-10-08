@@ -123,7 +123,11 @@ Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, 
 - Theory :
   - [Searching PPT](https://drive.google.com/file/d/19ox7uRmNt31yeP1vG0zm8th7_-E8q2Gc/view)
   - [Hashing PPT](https://drive.google.com/file/d/1eiDDhkXxwgY5AwqUh8hmyWoasOjCxuAy/view?usp=drive_web&authuser=0)
+  - [Collision Resolution Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Hashing_Collision%20Resolution.md)
 - Online Materials:
+  - [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
+  - [Open Hashing](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
+  - [Closed Hashing](https://www.cs.usfca.edu/~galles/visualization/ClosedHash.html)
   - [Bubble Sort](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/)
   - [Selection Sort](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/)
   - [Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
