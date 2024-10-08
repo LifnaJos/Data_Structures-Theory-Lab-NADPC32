@@ -68,7 +68,10 @@
   - If slot hash(x) % S is full, then we try (hash(x) + 1 * hash2(x)) % S
   - If (hash(x) + 1 * hash2(x)) % S is also full, then we try (hash(x) + 2 * hash2(x)) % S
   - If (hash(x) + 2 * hash2(x)) % S is also full, then we try (hash(x) + 3 * hash2(x)) % S
-  - ..................................................  
+  - ..................................................
+ 
+## Open Hashing Vs Closed Hashing
+![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/OpenHash_ClosedHash.jpg)
 
 ## Online Materials
 - [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
