@@ -71,6 +71,9 @@
   - ..................................................  
 
 ## Online Materials
+- [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
+- [Hashing - Visualgo.net](https://visualgo.net/en/hashtable?slide=9-3)
+- [Open Hashing](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
+- [Closed Hashing](https://www.cs.usfca.edu/~galles/visualization/ClosedHash.html)
 - [Visualization of Separate Chaining](https://www.educative.io/answers/hash-table-collision-resolution)
 - [Hashing - Java Point](https://www.javatpoint.com/hashing-open-addressing-for-collision-handling)
-- 
