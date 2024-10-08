@@ -2,6 +2,7 @@
 - There are two types of collision resolution techniques.
   1. Separate chaining (open hashing)
   2. Open addressing (closed hashing)
+     
 ![Imaage](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/CRT.jpg)
   
 ### Separate chaining / Open Hashing: 
