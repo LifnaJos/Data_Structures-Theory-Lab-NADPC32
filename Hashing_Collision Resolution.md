@@ -54,9 +54,9 @@
 - Additionally, clustering is less of a concern with quadratic probing.
 ![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/QP.jpg)
 - Eg Scenario : Let hash (x) be the slot index computed using hash function.    
-  - If slot hash(x) % S is full, then we try  ( hash (x) + 1*1 ) % S
-  - If ( hash (x) + 1*1 ) % S is also full, then we try ( hash (x) + 2*2 ) % S
-  - If ( hash (x) + 2*2 ) % S is also full, then we try ( hash (x) + 3*3 ) % S
+  - If slot hash(x) % S is full, then we try  ( hash (x) + 1 * 1 ) % S
+  - If ( hash (x) + 1 * 1 ) % S is also full, then we try ( hash (x) + 2 * 2 ) % S
+  - If ( hash (x) + 2 * 2 ) % S is also full, then we try ( hash (x) + 3 * 3 ) % S
   - ..................................................  
 
 #### Double hashing: 
@@ -65,9 +65,9 @@
 - Although there is no clustering issue, the performance of the cache is relatively poor when using double probing.
 ![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DH.jpg)
 - Eg Scenario : Let hash(x) be the slot index computed using hash function.
-  - If slot hash(x) % S is full, then we try (hash(x) + 1*hash2(x)) % S
-  - If (hash(x) + 1*hash2(x)) % S is also full, then we try (hash(x) + 2*hash2(x)) % S
-  - If (hash(x) + 2*hash2(x)) % S is also full, then we try (hash(x) + 3*hash2(x)) % S
+  - If slot hash(x) % S is full, then we try (hash(x) + 1 * hash2(x)) % S
+  - If (hash(x) + 1 * hash2(x)) % S is also full, then we try (hash(x) + 2 * hash2(x)) % S
+  - If (hash(x) + 2 * hash2(x)) % S is also full, then we try (hash(x) + 3 * hash2(x)) % S
   - ..................................................  
 
 ## Online Materials
