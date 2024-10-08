@@ -79,7 +79,7 @@ Introduction, Representation of Linked List, Linked List v/s Array, Types of Lin
 - Quiz :
   - [Quiz - 1](https://examradar.com/linked-lists-single-array-based-double-circular-mcq-based-online-test-1/)
   - [Quiz - 2](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-2/)
-  - [Quiz 3](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-3/)
+  - [Quiz - 3](https://examradar.com/linked-lists-single-array-based-double-circular-polynomials-mcq-based-online-test-3/)
 
 ## Module - 4 : Trees
 Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types of Binary Tree, Binary Tree Traversals, Binary Search Tree, Operations on Binary Search Tree, Applications of Binary Tree-Expression Tree, Huffman Encoding.
@@ -116,7 +116,11 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [B Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
   - [B+Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
 - Quiz :
-
+  - [Quiz - B Tree](https://www.sanfoundry.com/b-tree-multiple-choice-questions-answers-mcqs/)
+  - [Quiz - B+Trees](https://www.sanfoundry.com/bplus-tree-multiple-choice-questions-answers-mcqs/)
+  - [Quiz - AVL Trees](https://www.sanfoundry.com/data-structure-questions-answers-avl-tree/)
+  - [Quiz - Red Black Trees](https://www.sanfoundry.com/data-structure-questions-answers-red-black-tree/)
+  - [Quiz - Heaps](https://www.sanfoundry.com/data-structure-questions-answers-heap/)
 ## Module  - 6 : Sorting & Searching
 - Linear Search, Binary Search, Tries, Hashing, Collision  resolution Techniques,
 - Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Bucket Sort
@@ -140,7 +144,13 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
   - [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
   - [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-
+- Quiz :
+  - [Quiz - 1](https://www.sanfoundry.com/hashing-functions-multiple-choice-questions-answers-mcqs/)
+  - [Quiz - 2](https://www.sanfoundry.com/hash-tables-linear-probing-multiple-choice-questions-answers-mcqs/)
+  - [Quiz - 3](https://www.sanfoundry.com/hash-tables-quadratic-probing-multiple-choice-questions-answers-mcqs/)
+  - [Quiz - Sorting](https://www.sanfoundry.com/sorting-multiple-choice-questions-mcq/)
+  - [Quiz - Searching](https://www.sanfoundry.com/searching-multiple-choice-questions-mcq/)
+  - [Quiz - Tries](https://www.sanfoundry.com/trie-multiple-choice-questions-answers-mcqs/)
 ## Online Resources 
 1. https://cse01-iiith.vlabs.ac.in/List%20of%20experiments.html
 2. https://ds1-iiith.vlabs.ac.in/List%20of%20experiments.html
