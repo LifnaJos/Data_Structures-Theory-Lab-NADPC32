@@ -103,8 +103,8 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [Quiz 3](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-3/) 
 
 ## Module  - 5 : Types of Tree
-Search Trees-AVL Tree, Red Black Tree,  B Tree, B+ Tree and n-ary tree
-Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
+- Search Trees-AVL Tree, Red Black Tree,  B Tree, B+ Tree and n-ary tree
+- Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
 - Theory
   - [AVL Tree - PPT](https://drive.google.com/file/d/1Vrwx9kT2Xr1WiFIp-Dy_Wl0DUGEq5arK/view?usp=drive_web&authuser=0)
 - Online Resources :
@@ -118,12 +118,13 @@ Introduction to Heaps, Heap representation using array, heap creation and deleti
 - Quiz :
 
 ## Module  - 6 : Sorting & Searching
-Linear Search, Binary Search, Tries, Hashing, Collision  resolution Technique
-Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Bucket Sort
+- Linear Search, Binary Search, Tries, Hashing, Collision  resolution Techniques,
+- Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Bucket Sort
 - Theory :
   - [Searching PPT](https://drive.google.com/file/d/19ox7uRmNt31yeP1vG0zm8th7_-E8q2Gc/view)
   - [Hashing PPT](https://drive.google.com/file/d/1eiDDhkXxwgY5AwqUh8hmyWoasOjCxuAy/view?usp=drive_web&authuser=0)
   - [Collision Resolution Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Hashing_Collision%20Resolution.md)
+  - [Demonstrations on Hashing](https://docs.google.com/document/d/1cygFcBPREp11oYVHsM8t3JCNjTOscbE7cR5PWcCJ8HM/edit?usp=sharing)
 - Online Materials:
   - [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
   - [Open Hashing](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
