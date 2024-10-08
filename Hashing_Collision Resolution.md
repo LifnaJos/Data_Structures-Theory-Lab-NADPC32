@@ -35,6 +35,9 @@
 - This involves doing a linear probe for the following slot when a collision occurs and continuing to do so until an empty slot is discovered.
 - The worst time to search for an element in linear probing is O(n).
 - The cache performs best with linear probing, but clustering is a concern. This method’s key benefit is that it is simple to calculate.
+  
+![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/LP.jpg)
+
 ![Imaage](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Linear%20probing.jpg)
 - Eg Scenario :
   - If slot hash (x) % S is full, then we try ( hash (x) + 1 ) % S
@@ -49,6 +52,7 @@
 - When a collision happens in this, we probe for the i2-nd slot in the ith iteration, continuing to do so until an empty slot is discovered.
 - In comparison to linear probing, quadratic probing has a worse cache performance.
 - Additionally, clustering is less of a concern with quadratic probing.
+![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/QP.jpg)
 - Eg Scenario : Let hash (x) be the slot index computed using hash function.    
   - If slot hash(x) % S is full, then we try  ( hash (x) + 1*1 ) % S
   - If ( hash (x) + 1*1 ) % S is also full, then we try ( hash (x) + 2*2 ) % S
@@ -59,6 +63,7 @@
 - In this, you employ a different hashing algorithm, and in the ith iteration, you look for (i * hash 2(x)).
 - The determination of two hash functions requires more time.
 - Although there is no clustering issue, the performance of the cache is relatively poor when using double probing.
+![Image](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DH.jpg)
 - Eg Scenario : Let hash(x) be the slot index computed using hash function.
   - If slot hash(x) % S is full, then we try (hash(x) + 1*hash2(x)) % S
   - If (hash(x) + 1*hash2(x)) % S is also full, then we try (hash(x) + 2*hash2(x)) % S
@@ -67,4 +72,5 @@
 
 ## Online Materials
 - [Visualization of Separate Chaining](https://www.educative.io/answers/hash-table-collision-resolution)
+- [Hashing - Java Point](https://www.javatpoint.com/hashing-open-addressing-for-collision-handling)
 - 
