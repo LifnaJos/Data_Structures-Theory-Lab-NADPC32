@@ -46,11 +46,11 @@ At the end of the course, students will be able to
 | 10. | [Searching Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Lab_Experiments/Lab_10_Search.md) : | LO1, LO4 |
 | | a. Binary Search | -"-  | 
 | | b. Hashing | -"-  |
-| 11. | Sorting Techniques : | LO1, LO4 |
+| 11. | [Sorting Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Lab_Experiments/Lab_11_Sort_1.md) : | LO1, LO4 |
 | | a. Selection Sort | -"-  | 
 | | b. Insertion Sort |  -"- |
 | | c. Merge Sort | -"-  |
-| 12. | Sorting Techniques :  | LO1, LO4 |
+| 12. | [Sorting Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Lab_Experiments/Lab_12_Sort_2.md) :  | LO1, LO4 |
 | | a. Quick Sort | -"-  |
 | | b. Heap Sort |  -"- | 
 | | c. Bucket Sort |  -"- |
