@@ -144,6 +144,9 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [Comparison on Sorting Techniques - 1](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
   - [Comparison on Sorting Techniques - 2](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare3-205baca859250562.png)
   - [Visualization of Sorting Techniques : ComparisonSort - Prof. Galles ](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+  - [Bucket Sort](https://learnersbucket.com/tutorials/algorithms/bucket-sort-algorithm/)
+  - [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
+  - [quick sort](https://www.geeksforgeeks.org/quick-sort-algorithm/)
 - Quiz :
   - [Quiz - 1](https://www.sanfoundry.com/hashing-functions-multiple-choice-questions-answers-mcqs/)
   - [Quiz - 2](https://www.sanfoundry.com/hash-tables-linear-probing-multiple-choice-questions-answers-mcqs/)
