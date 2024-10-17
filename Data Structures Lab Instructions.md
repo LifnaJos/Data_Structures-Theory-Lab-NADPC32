@@ -8,16 +8,14 @@
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
-| | a. Experiments | 10 Marks | |
+| | a. Experiments | 15 Marks | |
 | | b. Term Work Assessment | 10 Marks | 3rd week of Oct. 2024 |
-| | c. Lab Attendance | 5 Marks | |
-| 2. | Practical and Oral Examination | 25 Marks | |
+| 2 | Practical and Oral Examination | 25 Marks | |
 |   | Total Marks | 50 Marks | |
 
 #### Note :  Term Work Assessment 
 - **Design and implement a Game** of your choice in **C or Java**, utilizing various data structures studied
-- Viva will be conducted based on this Assessment
-- 
+- Viva will be conducted based on this Assessment 
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
