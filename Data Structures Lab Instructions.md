@@ -9,7 +9,7 @@
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
 | | a. Experiments | 15 Marks | [Front Page](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DSLab_FrontPage.pdf)|
-| | b. Term Work Assessment | 10 Marks | Oct. 2024 |
+| | b. Term Work Assessment | 10 Marks | 3rd week Oct. 2024 |
 | 2 | Practical and Oral Examination | 25 Marks | 24th Oct. 2024 |
 |   | Total Marks | 50 Marks | |
 
