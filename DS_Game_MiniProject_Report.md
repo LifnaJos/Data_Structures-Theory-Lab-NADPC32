@@ -1,6 +1,7 @@
 # Project Title : <Name of the Project>
-## Student Name : <Name>      
-## Class / Roll No : D6AD-B / <No>
+#### Student Name : <Name>      
+#### Class : D6AD-B
+#### Roll No : <No>
 ## Link to the Github Repo : <Link>
 ## Description of the Game : 
 ## Data Structures Used :
