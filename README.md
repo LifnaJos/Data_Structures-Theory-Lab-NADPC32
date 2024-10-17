@@ -12,7 +12,7 @@
 | 2 | Internal Assessment | 20 Marks | [DS-MT-QP-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25.pdf), [DS-MT-QP-Sol-2024](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_SE_III_QP_24-25_Sol.pdf)|
 | 3 | Continuous Assessment | 20 Marks | |
 |   | a. MCQ  | 10 Marks | 10th Oct 2024|
-|   | b. GATE based Tutorial - 1 | 10 Marks | |
+|   | b. Mini-Project | 10 Marks | [Mini Project Report Format](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_Game_MiniProject_Report.md) |
 |   | c. Programming Test on HackerRank | 10 Marks | [19th Sept 2024](https://www.hackerrank.com/d6ad-b-ca-1)|
 |   | Total Marks | 100 Marks | |
 
