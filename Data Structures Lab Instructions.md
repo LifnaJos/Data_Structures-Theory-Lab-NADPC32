@@ -1,7 +1,7 @@
 # Course : Data Structures Lab
 | Lab Instructor | Email-id | Lab Index Page | Practical Questions |
 | :-------------:| :--------: | :--------------: | :-------------------: | 
-| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DS_Index.pdf) | [Practical Questions] |
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DS_Index.pdf) | [Practical Questions](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/NADPC32_DS_PracticalQuestions.pdf) |
 
 ## Evaluation Scheme 
 
