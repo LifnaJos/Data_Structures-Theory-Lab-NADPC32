@@ -52,6 +52,7 @@ At the end of the course, students will be able to
 | | a. Quick Sort | -"-  |
 | | b. Heap Sort |  -"- | 
 | | c. Bucket Sort |  -"- |
+| 13.| [Mini Project Report](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/DS_Game_MiniProject_Report.md) | LO1, LO2, LO3, LO4, Lo5, LO6 |
 
 ## References
 1. www.leetcode.com
