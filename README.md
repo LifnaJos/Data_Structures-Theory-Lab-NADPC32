@@ -107,7 +107,7 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
 - Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
 - Theory
   - [AVL Tree - PPT](https://drive.google.com/file/d/1Vrwx9kT2Xr1WiFIp-Dy_Wl0DUGEq5arK/view?usp=drive_web&authuser=0)
-  - [
+  - [RBT_Deletion](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/RBT_Deletion.jpg)
   - [Red Black Tree - IIIT Hyderabad](https://ds2-iiith.vlabs.ac.in/exp/red-black-tree/red-black-tree-oprations/deletion.html)
   - [Red-Block Tree](https://medium.com/analytics-vidhya/deletion-in-red-black-rb-tree-92301e1474ea)
   - [B Tree](https://www.javatpoint.com/b-tree)
