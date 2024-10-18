@@ -107,6 +107,11 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
 - Introduction to Heaps, Heap representation using array, heap creation and deletion, Heap operations
 - Theory
   - [AVL Tree - PPT](https://drive.google.com/file/d/1Vrwx9kT2Xr1WiFIp-Dy_Wl0DUGEq5arK/view?usp=drive_web&authuser=0)
+  - [Red Black Tree - IIIT Hyderabad](https://ds2-iiith.vlabs.ac.in/exp/red-black-tree/red-black-tree-oprations/deletion.html)
+  - [Red-Block Tree](https://medium.com/analytics-vidhya/deletion-in-red-black-rb-tree-92301e1474ea)
+  - [B Tree](https://www.javatpoint.com/b-tree)
+  - [B+ Tree](https://www.javatpoint.com/b-plus-tree)
+  - [Heap Data Structure](https://www.javatpoint.com/heap-data-structure)
 - Online Resources :
   - [Difference between B Tree & B+ Tree - 1](https://www.geeksforgeeks.org/difference-between-b-tree-and-b-tree/)
   - [B Tree Vs B+Tree](https://medium.com/beuni/b-tree-and-b-tree-d27a9cd3630b)
@@ -115,6 +120,8 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [AVL Tree - Visualization](https://cmps-people.ok.ubc.ca/ylucet/DS/AVLtree.html)
   - [B Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
   - [B+Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
+  - [Red Block tree Visualization 1](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+  - [Red Black Tree Visualization 2](https://ds2-iiith.vlabs.ac.in/exp/red-black-tree/red-black-tree-oprations/redblack.html)
 - Quiz :
   - [Quiz - B Tree](https://www.sanfoundry.com/b-tree-multiple-choice-questions-answers-mcqs/)
   - [Quiz - B+Trees](https://www.sanfoundry.com/bplus-tree-multiple-choice-questions-answers-mcqs/)
@@ -129,6 +136,7 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [Hashing PPT](https://drive.google.com/file/d/1eiDDhkXxwgY5AwqUh8hmyWoasOjCxuAy/view?usp=drive_web&authuser=0)
   - [Collision Resolution Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Hashing_Collision%20Resolution.md)
   - [Demonstrations on Hashing](https://docs.google.com/document/d/1cygFcBPREp11oYVHsM8t3JCNjTOscbE7cR5PWcCJ8HM/edit?usp=sharing)
+  - [Tries](https://www.javatpoint.com/trie-data-structure)
 - Online Materials:
   - [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
   - [Open Hashing](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
