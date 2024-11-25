@@ -97,6 +97,8 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
 - Visualization Tools :
   - [Binary Search Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BST.html)
   - [Huffman Tree](https://huffman.ooz.ie/)
+  - [Huffman Tree Visualization - 1](https://www.csfieldguide.org.nz/en/interactives/huffman-tree/)
+  - [Huffman Tree Visualization - 2](https://cmps-people.ok.ubc.ca/ylucet/DS/Huffman.html)
 - Quiz :
   - [Quiz 1](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-1/)
   - [Quiz 2](https://examradar.com/data-structure-binary-trees-mcq-based-online-test-2/)
