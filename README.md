@@ -138,6 +138,7 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
   - [Collision Resolution Techniques](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Hashing_Collision%20Resolution.md)
   - [Demonstrations on Hashing](https://docs.google.com/document/d/1cygFcBPREp11oYVHsM8t3JCNjTOscbE7cR5PWcCJ8HM/edit?usp=sharing)
   - [Tries](https://www.javatpoint.com/trie-data-structure)
+  - [Visualization of Merge Sort](https://opendsa-server.cs.vt.edu/embed/mergesortAV)
 - Online Materials:
   - [Hashing Visualization from ACM](https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html)
   - [Open Hashing](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
