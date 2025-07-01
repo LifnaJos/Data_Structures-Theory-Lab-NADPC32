@@ -177,11 +177,12 @@ Introduction, Tree Terminologies, Binary Tree, Binary Tree Representation, Types
 8. https://www.geeksforgeeks.org/real-time-application-of-data-structures/
  
 ## Text Books :
-1. Aaron M Tenenbaum, Yedidyah Langsam, Moshe J Augenstein, “Data Structures Using C”, Pearson Publication.
-2. Reema Thareja, “Data Structures using C”, Oxford Press.
-3. Richard F. Gilberg and Behrouz A. Forouzan, “Data Structures: A Pseudocode Approach With C”, 2  Edition, CENGAGE Learning.
-4. Jean Paul Tremblay, P. G. Sorenson, “Introduction to Data Structure and Its Applications”, McGraw-Hill Higher Education
-5. Data Structures Using C, ISRD Group, 2  Edition, Tata McGraw-Hill.
+1. [Robert Lafore, "Data Structures in Java"](https://github.com/LifnaJos/Data_Structures-Theory-Lab-NADPC32/blob/main/Lab_Experiments/Data%20Structures%20%26%20Algorithms%20in%20Java%20-%20Robert%20Lafore.pdf)
+2. Aaron M Tenenbaum, Yedidyah Langsam, Moshe J Augenstein, “Data Structures Using C”, Pearson Publication.
+3. Reema Thareja, “Data Structures using C”, Oxford Press.
+4. Richard F. Gilberg and Behrouz A. Forouzan, “Data Structures: A Pseudocode Approach With C”, 2  Edition, CENGAGE Learning.
+5. Jean Paul Tremblay, P. G. Sorenson, “Introduction to Data Structure and Its Applications”, McGraw-Hill Higher Education
+6. Data Structures Using C, ISRD Group, 2  Edition, Tata McGraw-Hill.
    
 ## Refernces :
 1. Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.
